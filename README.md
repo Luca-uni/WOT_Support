@@ -1,3 +1,5 @@
+# Compatibility version for ES6
+
 # Node.js Web of Things Server
 A server and gateway reference implementation of the [W3C Web Thing Model](http://model.webofthings.io),
 written in Node.js and tailored for embedded systems.
